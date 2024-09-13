@@ -18,7 +18,7 @@ $(document).ready(function( {
         
         bt_nr = bt_nr.contact(n)
 
-        $("txt_display").val(bt_nr)
+        $("txt_display").val(bt_nr)N
     
 
 }); 
